@@ -1,4 +1,4 @@
-fecha = input("Dime una fecha en formato dd/mm/aaaa  :")
+fecha = input("Dime una fecha en formato dd/mm/aaaa :")
 dia = fecha.split('/')[0]
 mes = fecha.split('/')[1]
 año = fecha.split('/')[-1]
